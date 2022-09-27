@@ -5,8 +5,8 @@
     font-family: 'Poppins', sans-serif; 
 }
 body{
-    background-image: url("weather.jpg") no-repeat;
-    background-size: cover;
+    background-image: url('weather.jpg');
+    background-repeat: no-repeat;
 }
 header{
     padding: 50px;
