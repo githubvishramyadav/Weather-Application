@@ -3,6 +3,8 @@
 *{
     font-family: 'Koulen', cursive;
     font-family: 'Poppins', sans-serif; 
+    height:100%;
+    width:100%;
 }
 body{
     background-image: url('weather.jpg');
